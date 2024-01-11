@@ -48,3 +48,9 @@ Publications
 *   [Misuse Attacks on Post-quantum Cryptosystems](https://link.springer.com/chapter/10.1007/978-3-030-17656-3_26) <br>
     *Ciprian Băetu, F. Betül Durak, Loïs Huguenin-Dumittan, Abdullah Talayhan, and Serge Vaudenay* <br>
     EUROCRYPT 2019 
+
+Contact
+----
+* E-mail: lois [dot] huguenin-dumittan [at] epfl [dot] ch 
+* [DBLP](https://dblp.org/pid/227/7908.html)
+* [Linkedin](https://www.linkedin.com/in/lo%C3%AFs-huguenin-dumittan-8724b62a8/)
