@@ -75,4 +75,4 @@ Contact
 * E-mail: lois [dot] huguenin-dumittan [at] epfl [dot] ch 
 * [DBLP](https://dblp.org/pid/227/7908.html)
 * [Linkedin](https://www.linkedin.com/in/lo%C3%AFs-huguenin-dumittan-8724b62a8/)
-
+* [Github](https://github.com/lehugueni)
