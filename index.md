@@ -11,7 +11,7 @@ Publications
 
 *   [K-Waay: Fast and Deniable Post-Quantum X3DH without Ring Signatures](https://www.usenix.org/system/files/sec24summer-prepub-647-collins.pdf) <br>
     *Daniel Collins, Loïs Huguenin-Dumittan, Ngoc Khanh Nguyen, Nicolas Rolin and Serge Vaudenay* <br>
-    USENIX Security 2024
+    USENIX Security 2024 [[eprint]](https://eprint.iacr.org/2024/120)
 
 *   [Public-Key Encryption with Quantum Keys](https://link.springer.com/chapter/10.1007/978-3-031-48624-1_8) <br>
     *Khashayar Barooti, Alex B. Grilo, Loïs Huguenin-Dumittan, Giulio Malavolta, Or Sattath and Quoc-Huy Vu* <br>
