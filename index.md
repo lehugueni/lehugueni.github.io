@@ -8,7 +8,7 @@ Publications
 ----------
 *   [Impossibility of Post-Quantum Shielding Black-Box Constructions of CCA from CPA](https://cic.iacr.org/p/1/1/4) <br>
     *Loïs Huguenin-Dumittan and Serge Vaudenay* <br>
-    CiC, Volume 1, Issue 1
+    IACR CiC, Volume 1, Issue 1
 
 *   [K-Waay: Fast and Deniable Post-Quantum X3DH without Ring Signatures](https://www.usenix.org/system/files/sec24summer-prepub-647-collins.pdf) <br>
     *Daniel Collins, Loïs Huguenin-Dumittan, Ngoc Khanh Nguyen, Nicolas Rolin and Serge Vaudenay* <br>
